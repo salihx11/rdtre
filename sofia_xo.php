@@ -1,0 +1,1 @@
+<?php header("Location: /creator.php?u=sofia_xo"); exit(); ?>

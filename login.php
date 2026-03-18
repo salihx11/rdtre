@@ -1,0 +1,1 @@
+<?php header("Location: /auth/login.php",true,301); exit();
